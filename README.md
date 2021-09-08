@@ -18,6 +18,37 @@ git config --global user.name "vikashm2711"
 git config --global user.email "vikashm2711@gmail.com"
 ```
 
+
+## Simple guide and commands to apply
+```
+git status
+```
+
+```
+git init
+```
+
+```
+git add *
+```
+
+```
+git commit -m <message>
+```
+
+```
+git remote add origin <link>
+```
+
+```
+git push oringin master
+```
+
+
+
+
+
+
 #### Let your local credential manager cache passwords
 ```
 git config --global credential.helper manager
